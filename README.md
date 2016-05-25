@@ -1,2 +1,5 @@
 # hello-world
-Trying something new
+Trying something new 
+
+- More about me here http://openwetware.org/wiki/User:JernejTurnsek
+- TriForOceans
